@@ -5,15 +5,23 @@ function Footer() {
   return (
     <footer>
   <h2>
-    <a href="/">
-      <span role="img" aria-label="camera"> 📸</span> JasonAhmed
-    </a>
+    <a href="/">Copywrite (To Do: add the proper copywrite symbol): JasonAhmed</a>
   </h2>
   <nav>
     <ul className="flex-row">
       <li className="mx-2">
         <a href="#contact">
-          Contact
+          GitHub [link]
+        </a>
+      </li>
+      <li className="mx-2">
+        <a href="#contact">
+          LinkedIn [link]
+        </a>
+      </li>
+      <li className="mx-2">
+        <a href="#contact">
+          Butterfly Stampede [link]
         </a>
       </li>
     </ul>

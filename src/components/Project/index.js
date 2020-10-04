@@ -4,7 +4,7 @@ import photo2 from "../../assets/small/commercial/portfolio-screenshot-small.png
 import photo3 from "../../assets/small/commercial/run-buddy-screenshot-small.png";
 import photo4 from "../../assets/small/commercial/taskinator-screenshot-small.png";
 import photo5 from "../../assets/small/commercial/weather-dashboard-screenshot-small.png";
-import photo6 from "../../assets/small/commercial/workday-scheduler-screenshot-small.png";
+import photo6 from "../../assets/small/commercial/collab-screenshot-small.png";
 
 
 function Project() {
