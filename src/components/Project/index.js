@@ -10,22 +10,22 @@ import photo6 from "../../assets/small/commercial/collab-screenshot-small.png";
 function Project() {
     return (
       <section>
-        <h1>PROJECT</h1>
-        <p>GALLERY</p>
+        <h1>GALLERY</h1>
+        <p>A sampling of my projects</p>
       <div className="flex-row">
           <img
             src={photo} alt="Book Garden screenshot" className="img-thumbnail mx-2"
           />
           <img
-            src={photo2} alt="Portfolio screenshot" className="img-thumbnail mx-2"
+            src={photo3} alt="Run Buddy screenshot" className="img-thumbnail mx-2"
           />
           <img
-            src={photo3} alt="Run Buddy screenshot" className="img-thumbnail mx-2"
+            src={photo4} alt="Taskinator screenshot" className="img-thumbnail mx-2"
           />
       </div>
       <div className="flex-row">
           <img
-            src={photo4} alt="Taskinator screenshot" className="img-thumbnail mx-2"
+            src={photo2} alt="Portfolio screenshot" className="img-thumbnail mx-2"
           />
           <img
             src={photo5} alt="Weather Dashboard screenshot" className="img-thumbnail mx-2"

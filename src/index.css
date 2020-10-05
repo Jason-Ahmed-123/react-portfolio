@@ -36,7 +36,7 @@ body {
   letter-spacing: .1em;
   background: var(--dark);
   color: var(--light);
-  font-family: 'Poiret One', cursive;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
 
@@ -92,11 +92,48 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
+  background: darkslategray;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  height: 60px;
 }
 
 header a {
   color: var(--light);
+}
+
+footer {
+  background: darkslategray;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  height: 60px;
+}
+
+footer a {
+  color: var(--light);
+}
+
+.hero {
+  background-image: url("../src/assets/cover/cover-image.jpg");
+  /* background-image: darken; */
+  /* opacity: 0.7; */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  height: 250px;
+  padding: 20px;
+  text-shadow: 4px 3px navy;
+}
+
+.aboutMeText {
+  
 }
 
 button {
@@ -269,7 +306,7 @@ textarea {
 }
 
 button {
-	background: var(--primary);
+	background: slategray;
 	border: 0;
 	border-radius: 5px;
 	color: #fff;
