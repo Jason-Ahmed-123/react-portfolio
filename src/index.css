@@ -105,6 +105,13 @@ header a {
   color: var(--light);
 }
 
+header nav ul li a:hover {
+  background: rgb(146, 219, 219);
+  color: #024e76;
+  border-radius: 15px;
+  text-shadow: none;
+}
+
 footer {
   background: darkslategray;
   position: -webkit-sticky;
@@ -116,6 +123,13 @@ footer {
 
 footer a {
   color: var(--light);
+}
+
+footer nav ul li a:hover {
+  background: rgb(146, 219, 219);
+  color: #024e76;
+  border-radius: 15px;
+  text-shadow: none;
 }
 
 .hero {
@@ -131,10 +145,6 @@ footer a {
   height: 250px;
   padding: 20px;
   text-shadow: 3px 2px navy;
-}
-
-.aboutMeText {
-  
 }
 
 button {

@@ -1,5 +1,6 @@
 import React from 'react';
 // import coverImage from "../../assets/cover/cover-image.jpg";
+import myPhoto from "../../assets/cover/photo.png";
 
 function About() {
     return (
@@ -7,6 +8,10 @@ function About() {
             <div>
             <h1 id="about">About me</h1>
             </div>
+            <div>
+                <img src={myPhoto} className="" style={{ width: "10%"}} alt="MyPhoto" />
+            </div>
+            <br></br>
             <div class="flex-row hero">
             <h5 class="aboutMeText">
                 seitan heirloom post-ironic pop-up iPhone mlkshk hella selfies fashion axe occupy readymade put a bird on it
