@@ -8,23 +8,21 @@ function Footer() {
   <nav>
     <ul className="flex-row">
     <li className="mx-2">
-        <a href="#contact">
         &copy; 2020 - JasonAhmed
+      </li>
+      <li className="mx-2">
+        <a href="https://github.com/Jason-Ahmed-123?tab=repositories">
+          GitHub
         </a>
       </li>
       <li className="mx-2">
-        <a href="#contact">
-          GitHub [link]
+        <a href="https://www.linkedin.com/in/jason-ahmed-0b6620193">
+          LinkedIn
         </a>
       </li>
       <li className="mx-2">
-        <a href="#contact">
-          LinkedIn [link]
-        </a>
-      </li>
-      <li className="mx-2">
-        <a href="#contact">
-          Butterfly Stampede [link]
+        <a href="https://soundcloud.com/user-580032759">
+          Butterfly Stampede
         </a>
       </li>
     </ul>

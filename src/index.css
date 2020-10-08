@@ -142,8 +142,8 @@ footer nav ul li a:hover {
   display: flex;
   justify-content: flex-end;
   flex-wrap: wrap;
-  height: 250px;
-  padding: 20px;
+  height: 275px;
+  padding: 25px;
   text-shadow: 3px 2px navy;
 }
 
