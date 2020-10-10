@@ -19,16 +19,14 @@ function Project() {
       <a href = "https://jason-ahmed-123.github.io/run-buddy/" target = "">
           <img src={photo3} alt="Run Buddy screenshot" className="img-thumbnail mx-2"/>
       </a>
-      </div>
-      <div className="flex-row">
       <a href="https://jason-ahmed-123.github.io/taskinator/" target = "">
           <img src={photo4} alt="Taskinator screenshot" className="img-thumbnail mx-2"/>
       </a>
+      </div>
+      <div className="flex-row">
       <a href="https://jason-ahmed-123.github.io/Week2-Challenge-Portfolio/" target = "">
           <img src={photo2} alt="Portfolio screenshot" className="img-thumbnail mx-2"/>
       </a>
-      </div>
-      <div className="flex-row">
       <a href="https://jason-ahmed-123.github.io/week6-weather-dashboard/" target = "">
           <img src={photo5} alt="Weather Dashboard screenshot" className="img-thumbnail mx-2"/>
       </a>

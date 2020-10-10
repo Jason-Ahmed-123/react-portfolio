@@ -1,7 +1,13 @@
 import React from 'react';
 
-function Nav() {  
+// import {
+//   BrowserRouter as Router,
+//   Switch,
+//   Route,
+//   Link
+// } from "react-router-dom";
 
+function Nav() {
   return (
     <header className="flex-row px-1">
   <h2>
@@ -10,7 +16,7 @@ function Nav() {
     </a>
   </h2>
   <nav>
-    <ul className="flex-row">
+    <ul className="flex-row nav nav-tabs">
       <li className="mx-2">
         <a data-testid="about" href="#about">
           About me
@@ -23,7 +29,7 @@ function Nav() {
       </li>
       <li className="mx-2">
         <a href="#contact">
-          Contact
+        Contact
         </a>
       </li>
       <li className="mx-2">
