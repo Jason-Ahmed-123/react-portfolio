@@ -2,7 +2,7 @@ import React from 'react';
 import photo from "../../assets/small/book-garden-screenshot-small.png";
 import photo2 from "../../assets/small/portfolio-screenshot-small.png";
 import photo3 from "../../assets/small/run-buddy-screenshot-small.png";
-import photo4 from "../../assets/small/taskinator-screenshot-small.png";
+import photo4 from "../../assets/small/future-ram-screenshot-small.png";
 import photo5 from "../../assets/small/weather-dashboard-screenshot-small.png";
 import photo6 from "../../assets/small/collab-screenshot-small.png";
 
@@ -21,8 +21,8 @@ function Project() {
       </a>
       </div>
       <div className="flex-row">
-      <a href="https://jason-ahmed-123.github.io/taskinator/" target = "">
-          <img src={photo4} alt="Taskinator screenshot" className="img-thumbnail mx-2"/>
+      <a href="https://wicked-ghoul-96440.herokuapp.com/" target = "">
+          <img src={photo4} alt="future.RAM screenshot" className="img-thumbnail mx-2"/>
       </a>
       <a href="https://jason-ahmed-123.github.io/Week2-Challenge-Portfolio/" target = "">
           <img src={photo2} alt="Portfolio screenshot" className="img-thumbnail mx-2"/>
