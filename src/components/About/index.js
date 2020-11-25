@@ -8,6 +8,7 @@ function About() {
             <div>
             <h1 id="about">About me</h1>
             </div>
+            <br></br>
             <div>
                 <img src={myPhoto} className="" style={{ width: "10%"}} alt="MyPhoto" />
             </div>
