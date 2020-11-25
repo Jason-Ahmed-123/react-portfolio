@@ -32,11 +32,11 @@ function Nav() {
         Contact
         </a>
       </li>
-      {/* <li className="mx-2">
-        <a href="#resume">
+      <li className="mx-2">
+        <a href="https://github.com/Jason-Ahmed-123/react-portfolio/files/5599238/Jason-Ahmed-WebDev-Resume.pdf">
           Resume
         </a>
-      </li> */}
+      </li>
     </ul>
   </nav>
 </header>

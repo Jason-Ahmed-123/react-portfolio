@@ -147,6 +147,24 @@ footer nav ul li a:hover {
   text-shadow: 3px 2px navy;
 }
 
+.flex-container {
+  display: flex;
+}
+
+.flex-child {
+  flex: 3;
+  border: 2px solid yellow;
+} 
+
+.flex-child-left {
+  width: 80%;
+}
+
+/* .flex-child:first-child {
+  margin-right: 20px;
+} */
+
+
 button {
   font-size: 1rem;
   text-decoration: none;

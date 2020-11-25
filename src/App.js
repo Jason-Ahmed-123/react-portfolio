@@ -15,7 +15,6 @@ function App() {
       <main>
         <About></About>
         <Project></Project>
-        
         {/* <Switch>
         <Route path="/contact">
             <ContactForm />
