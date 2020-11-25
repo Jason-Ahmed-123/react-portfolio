@@ -14,11 +14,10 @@ function About() {
             <br></br>
             <div class="flex-row hero">
             <h5 class="aboutMeText">
-                seitan heirloom post-ironic pop-up iPhone mlkshk hella selfies fashion axe occupy readymade put a bird on it
-                messenger bag Wes Anderson Schlitz plaid Bushwick church-key lo-fi skateboard slow-carb hashtag trust fund
-                Williamsburg biodiesel fixie farm-to-table 8-bit banjo XOXO Banksy chillwave bicycle rights retro cliche
-                tattooed bespoke irony mumblecore Shoreditch deep v polaroid McSweeney's bitters. Cray gentrify tofu Marfa you
-                probably haven't heard of them yr banh mi asymmetrical art party selvage letterpress High Life.
+            Hi there! I am a Full-Stack Web Developer with a background in Capital Markets Finance and a life-long dedication to learning! 
+            Recently earned a certificate in full stack development from UCLA, with skills in JavaScript, CSS, Bootstrap, React.js, the MERN Stack, and responsive web design. 
+            I am effective at combining creativity and problem solving to develop user-friendly web applications with unique, eye-catching designs.
+            Known amongst colleagues for strong wit and attention to detail, no matter the complexity of the project.
             </h5>
             {/* <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" /> */}
             </div>

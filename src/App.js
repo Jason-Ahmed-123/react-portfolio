@@ -13,8 +13,9 @@ function App() {
     <div>
       <Nav></Nav>
       <main>
-        <Project></Project>
         <About></About>
+        <Project></Project>
+        
         {/* <Switch>
         <Route path="/contact">
             <ContactForm />

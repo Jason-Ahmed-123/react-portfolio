@@ -32,11 +32,11 @@ function Nav() {
         Contact
         </a>
       </li>
-      <li className="mx-2">
+      {/* <li className="mx-2">
         <a href="#resume">
           Resume
         </a>
-      </li>
+      </li> */}
     </ul>
   </nav>
 </header>
